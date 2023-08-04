@@ -20,8 +20,8 @@ A (-1) is returned if an error occurred. A (0) is returned if the file is finish
 ***
 ## Installation
 ***
-I made the choice to centralize all Hive projects in a single file.
-This does not allow you to download the libft individually at the moment.
+I made the choice to centralize all Hive projects in a single folder.
+This does not allow you to download the GNL individually at the moment.
 ```
 $ git clone git@github.com:B9R9/42-HIVE.git
 $ cd ../path/to/the/folder/get_next_line
