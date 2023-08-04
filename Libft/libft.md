@@ -5,7 +5,7 @@
 2. [Objectives](#objectives)
 3. [Installation](#installation)
 4. [Compilation](#compilation)
-5. [Tester](#test)
+5. [Tester](#tester)
 6. [Update](#update)
 
 
@@ -40,9 +40,9 @@ $ -I ./libft/includes
 $ -L ./libft/ -lft
 ```
 ***
-###Tester
+## Tester
 In progress
-
+***
 ## Update
 This project is permanent evolution:
 > Clean double function
