@@ -11,5 +11,6 @@ It was an incredible experience and a revelation. Coding and solving everyday pr
 | [Piscine Reloaded](./PiscineReloaded/reloaded.md) | Redo projects from the piscine |
 | [Libft](./Libft/libft.md) | A complete and continuously updated user-made C library, with extensions beyond the standard library|
 | [Get Next Line](./get_next_line/get_next_line.md) | This is about programming a function that returns a line from a file descriptor|
+| [Fillit](./Fillit/fillit.md) | Searching the optimal fit of Tetriminos in the smallest square possible, in a time efficient manner|
 
 
