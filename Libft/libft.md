@@ -36,8 +36,8 @@ $ make
 ## Compilation
 During the compilation use:
 ```
-$ -I ./libft/includes
-$ -L ./libft/ -lft
+$ -I ./libft/includes  
+$ -L ./libft/ -lft  
 ```
 ***
 ## Tester
@@ -45,6 +45,6 @@ In progress
 ***
 ## Update
 This project is permanent evolution:
-> Clean double function
-> Add more options for mini-printf
-> write better code
+> Clean double function  
+> Add more options for mini-printf  
+> write better code  
