@@ -24,9 +24,14 @@ $ cd ../path/to/the/folder/Fillit
 ***
 ## Compilation
 First, You will need to generate Tetriminos locate in the folders `./test_fillit`  
-To use fillit, you can use Makefile command to generate an executable file:
+To use fillit, you can use Makefile command to generate an executable file:  
+bitwise version:
 ```
-$make
+$make bitwise
+```
+double linked list:
+```
+$make coordonee
 ```
 Then
 ```
