@@ -1,0 +1,6 @@
+Exemple de syntaxe:
+    typedef strucu Liste Liste;
+    struct Liste{
+        int nomre; //uen donnée, elle peut être un int, un char ou autre
+        Element *premier; // un pointeur permet de lier les elements suivants
+    }

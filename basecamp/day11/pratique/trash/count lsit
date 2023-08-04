@@ -1,0 +1,77 @@
+creer une structure dans l enterte ou ficier.h
+typedef struct Player
+{
+    int x ;
+    char c;
+} Player;
+----------------------------------------
+/*new list*/
+
+
+return NULL
+----------------------------------------
+bool is empty(List Li)
+if li == NULL
+    return vraie
+return false
+----------------------------------------
+/* taille de le liste*/
+int size = 0
+if (!isemptylist(li))
+    while (li != NULL)
+        ++size
+        li = li->next;
+return size
+----------------------------------------
+/*PRINT LIST*/
+
+if is empty LIST
+    print la liste est vide
+    return
+
+while li != NULLL
+    printf("[%d] ", li->value)
+    li = li -> next
+
+-----------------------------------------
+/*push back*/
+
+List Elelement * Elelement
+element = malloc
+if element == NULL
+    probleme sur 
+    exit(EXIT FAILURE)
+
+element -> value = X
+element -> next = NULL
+
+if is empty lsit(li)
+    return eleemnt 
+
+List element *temp
+temp = li
+
+while temp-> next != NULL
+    temp = temp->next
+
+temp->next = element
+
+return li
+
+----------------------------------------
+/*pUSH FRONT*/
+
+List Elelement * Elelement
+element = malloc
+if element == NULL
+    probleme sur 
+    exit(EXIT FAILURE)
+
+element -> value = X;
+if(isemptylist)
+    element->next= NULL
+else 
+    element->next=li;
+
+return element
+-----------------------------------------
