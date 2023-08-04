@@ -7,6 +7,7 @@ It was an incredible experience and a revelation. Coding and solving everyday pr
 ***
 |# Projects | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| Basecamp  |  [Piscine at HIVE(July 2021)](./basecamp/basecamp.md)|
+| [Basecamp](./basecamp/basecamp.md)  |  Piscine at HIVE(July 2021)|
+| [Piscine Reloaded](./PiscineReloaded/reloaded.md) | Redo projects from the piscine |
 
 
