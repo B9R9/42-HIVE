@@ -13,5 +13,6 @@ It was an incredible experience and a revelation. Coding and solving everyday pr
 | [Get Next Line](./get_next_line/get_next_line.md) | This is about programming a function that returns a line from a file descriptor|
 | [Fillit](./Fillit/fillit.md) | Searching the optimal fit of Tetriminos in the smallest square possible, in a time efficient manner|
 | [ft printf](./ft_printf/ft_printf.md) | Rebuilt your own version of the function printf|
+| [Filler](./Filler/filler.md) | Create your player program to compete against other students on the famous (or not) Filler board. |
 
 
