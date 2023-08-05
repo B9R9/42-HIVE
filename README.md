@@ -15,5 +15,6 @@ It was an incredible experience and a revelation. Coding and solving everyday pr
 | [ft printf](./ft_printf/ft_printf.md) | Rebuilt your own version of the function printf|
 | [Filler](./Filler/filler.md) | Create your player program to compete against other students on the famous (or not) Filler board. |
 | [Lem-in](./Lem-in/Lem-in.md) | We make an ant farm, with tunnels and rooms; we place the ants on one side; and we look at how they find the exit.|
+| [Corewar](./Corewar/Corewar.md) | This project involves creating a virtual arena, and having simplistic-language programs fight each other. You will get acquainted with VM conception (with the instructions it recognizes, the registers, etc.) and compilation problems of an assembly language in bytecode. In bonus, you’ll have the pleasure of having your champions fight in the arena.|
 
 
