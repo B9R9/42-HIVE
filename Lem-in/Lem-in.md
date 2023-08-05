@@ -8,7 +8,7 @@
 5. [Tester](#tester)
 6. [Update](#update)
 
-
+This project was made with [Margot](https://github.com/MargotDem).  
 ***
 ### Introduction
 We are going to look in depth at its calculus bit. How does it work? Simple! We make an ant farm,
