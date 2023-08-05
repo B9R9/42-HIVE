@@ -14,5 +14,6 @@ It was an incredible experience and a revelation. Coding and solving everyday pr
 | [Fillit](./Fillit/fillit.md) | Searching the optimal fit of Tetriminos in the smallest square possible, in a time efficient manner|
 | [ft printf](./ft_printf/ft_printf.md) | Rebuilt your own version of the function printf|
 | [Filler](./Filler/filler.md) | Create your player program to compete against other students on the famous (or not) Filler board. |
+| [Lem-in](./Lem-in/Lem-in.md) | We make an ant farm, with tunnels and rooms; we place the ants on one side; and we look at how they find the exit.|
 
 
