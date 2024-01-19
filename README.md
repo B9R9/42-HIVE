@@ -16,5 +16,7 @@ It was an incredible experience and a revelation. Coding and solving everyday pr
 | [Filler](./Filler/filler.md) | Create your player program to compete against other students on the famous (or not) Filler board. |
 | [Lem-in](./Lem-in/Lem-in.md) | We make an ant farm, with tunnels and rooms; we place the ants on one side; and we look at how they find the exit.|
 | [Corewar](./Corewar/Corewar.md) | This project involves creating a virtual arena, and having simplistic-language programs fight each other. You will get acquainted with VM conception (with the instructions it recognizes, the registers, etc.) and compilation problems of an assembly language in bytecode. In bonus, you’ll have the pleasure of having your champions fight in the arena.|
+| [Init](https://github.com/B9R9/42-Hive-Init) | This first project, init, will give you the opportunity to discover system and network basic commands, mayof the services used on server machine, as well as a few ideas of scripts that can be useful for SysAdmins on daily basis.|
+| [RogerSkyline](https://github.com/B9R9/42-Hive-Roger-Skyline-1) | This second project, roger-skyline-1 let you install a Virtual Machine, discover the basics about system and network administration as well as a lots of services used on a server machine.|
 
 
